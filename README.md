@@ -27,5 +27,11 @@ The experiment is described in notebook- "Occlusion experiment".The experiment i
 
 Original image -
 
+![original_image](https://user-images.githubusercontent.com/20341653/43394862-af5d4d72-9419-11e8-972e-893ef41ec1de.png)
+
+Occlusion map -
+
+![heatmap](https://user-images.githubusercontent.com/20341653/43394868-b4502188-9419-11e8-8744-a4c2e2d87b0c.png)
+
  
  
