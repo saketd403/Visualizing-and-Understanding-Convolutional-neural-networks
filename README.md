@@ -15,8 +15,17 @@ The implementation is mainly divided into two parts-
  
  ![kangaroo](https://user-images.githubusercontent.com/20341653/43394102-2a3ea782-9417-11e8-974f-9b9eee6c1cb5.jpg)
  
- Features detected in feature map 127 of convolutional layer 3 of block 3-
+ Features detected in feature map 127 of convolutional layer 3 of block 3 of VGG16 model-
  
 ![kangarooblock3_conv3_127_all](https://user-images.githubusercontent.com/20341653/43394117-345869a6-9417-11e8-8a40-bb6bf15f611b.png)
+
+
+**Part 2- Occlusion sensitivity**
+This experiment is carried out to test if the convnet is actualy locating and detecting the desired object in image and not some pattern or object in background.
+
+The experiment is described in notebook- "Occlusion experiment".The experiment is carried out on MNIST hanwritten digit data set.
+
+Original image -
+
  
  
